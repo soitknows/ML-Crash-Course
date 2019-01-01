@@ -4,8 +4,8 @@ Google Machine Learning Crash Course
 ## ML Concepts
 
 #### Tuesday - 2019-01-01
-[Framing (15 min)](https://developers.google.com/machine-learning/crash-course/framing/video-lecture)  
-[Descending Into ML (20 min)](https://developers.google.com/machine-learning/crash-course/descending-into-ml/video-lecture)  
+- [Framing (15 min)](https://developers.google.com/machine-learning/crash-course/framing/video-lecture)
+- [Descending Into ML (20 min)](https://developers.google.com/machine-learning/crash-course/descending-into-ml/video-lecture)
 
 #### Wednesday- 2019-01-02
 - [Reducing Loss (60 min)](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture)
@@ -65,5 +65,4 @@ Google Machine Learning Crash Course
 - [Cancer Prediction (5 min)](https://developers.google.com/machine-learning/crash-course/cancer-prediction)
 - [18th Century Literature (5 min)](https://developers.google.com/machine-learning/crash-course/18th-century-literature)
 - [Real World Guidelines (2 min)](https://developers.google.com/machine-learning/crash-course/real-world-guidelines)
-
 
