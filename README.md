@@ -4,12 +4,12 @@ Google Machine Learning Crash Course
 
 ### Tuesday - 2019-01-01
 [-][Framing (15 min)](https://developers.google.com/machine-learning/crash-course/framing/video-lecture)  
-[ ][Descending Into ML (20 min)](https://developers.google.com/machine-learning/crash-course/descending-into-ml/video-lecture)  
+[-][Descending Into ML (20 min)](https://developers.google.com/machine-learning/crash-course/descending-into-ml/video-lecture)  
 
 ### Wednesday- 2019-01-02
-[ ][Reducing Loss (60 min)](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture)  
+[-][Reducing Loss (60 min)](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture)  
 
-### Thrusday- 2019-01-03
+### Thursday- 2019-01-03
 [ ][First Steps with TF (60 min)](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/video-lecture)  
 
 ### Friday - 2019-01-04
